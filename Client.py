@@ -590,7 +590,4 @@ class ClientBackEnd(ClientInterface):
 if __name__ == '__main__':
     inter = ClientBackEnd()
     inter.ipAddressWindow()
-    #inter.socket()
-    #inter.CustomerMain()
-    #inter.BiddingHistoryWindow()
     

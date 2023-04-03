@@ -1,7 +1,7 @@
 
 
 This is a software application for managing auctions and bids in a local area network (LAN).
-It is built using Python and SQL, and utilizes the customtkinter library for creating graphical user interfaces (GUIs).
+It is built using Python and SQL(sqlite3), and utilizes the customtkinter library for creating graphical user interfaces (GUIs).
 The application is based on Python socket programming.
 
 

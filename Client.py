@@ -67,7 +67,6 @@ class ClientSideSockets:
         while connected:
             msg = message
             client_socket.send(msg.encode(FORMAT))
-            print(msg)
             if msg == "Disconnected":
                 connected = False
                 print("[[[[[DISCONNECTED]]]]]")
